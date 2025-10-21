@@ -1,9 +1,15 @@
+# Core data science stack
 pandas
 numpy
 matplotlib
 seaborn
-sqlalchemy
-psycopg2-binary
 scikit-learn
 scipy
+
+# Database tools
+sqlalchemy
+psycopg2-binary
+
+# Environment and utilities
+python-dotenv
 jupyter
